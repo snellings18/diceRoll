@@ -1,0 +1,37 @@
+body {
+    background-color: teal;
+    font-family: cursive;
+    font-size: xx-large;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    font-size: large;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 5rem;
+    height: 3rem;
+    background-color: white;
+    border-color: red;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+.players {
+    display: inline-block;
+    
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
